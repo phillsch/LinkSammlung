@@ -1,3 +1,5 @@
+[[_TOC_]]
+
 # Linksammlung
 
 Hier entseht eine interessante Linksammlung
